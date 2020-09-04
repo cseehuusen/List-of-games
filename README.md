@@ -28,6 +28,8 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Bioshock](https://en.wikipedia.org/wiki/BioShock) - Under the seaaa, under the seaaa...
 
+- [Half-Life2](https://en.wikipedia.org/wiki/Half-Life_2) - Half-Life 2 is a 2004 first-person shooter game developed and published by Valve. Like the original Half-Life, it combines shooting, puzzles, and storytelling, and adds features such as vehicles and physics-based gameplay.
+
 - [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley) - Farming and friendship packed into one pixly package.
 
 - [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) - An hack 'n slash dystopian set in the future where androids fight machines to retake earth.
