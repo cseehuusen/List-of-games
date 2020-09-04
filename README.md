@@ -41,8 +41,12 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## RPG
 - [Dungeon Siege](https://sv.wikipedia.org/wiki/Dungeon_Siege) - Slash some krug up and crawl through dark dungeons with spoopy skeletons.
 
+- [Witcher 3: The Wild Hunt](https://sv.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) - Play as the sword and magic wielding Geralt of Rivia and hunt ghouls, drowners and other kinds of monsters.
+
 ## Adventures
 - [Zelda](https://sv.wikipedia.org/wiki/The_Legend_of_Zelda_) - One of the best games of all times.
+
+- [Planescape Torment](https://en.wikipedia.org/wiki/Planescape:_Torment) - The peak of storytelling in video games. A truly immersive, beautifully crafted, emotionally engaging adventure set in the Planescape D&D universe.
 
 - [Portal](https://en.wikipedia.org/wiki/Portal_(video_game)) - The best just the best puzzle game.
 
@@ -55,6 +59,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Dota 2](https://en.wikipedia.org/wiki/Dota_2) - Best MOBA, multiplayer online battle arena, there is today. A super humble and helpfull community aswell, new players are very welcome!
 
 ## Strategy
+- - [Black & White]/https://en.wikipedia.org/wiki/Black_%26_White_(video_game)) - Be the god over your world and conquer over other gods. Evil or good, black or white. Control your creature, shape him in your commands by reward or punishment. Use powerful spells and destroy villages or be worshiped.
 - [Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)) - Legendary turn-based strategy game series in which you attempt to build an empire to stand the test of time.
 
 - [Rimworld](https://rimworldgame.com/) - An epic survival game where you build a colony on a rimworld planet. Like dwarf fortress but with better graphics and IN SPACE!
