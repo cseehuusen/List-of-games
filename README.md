@@ -40,6 +40,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## RPG
 - [Dungeon Siege](https://sv.wikipedia.org/wiki/Dungeon_Siege) - Slash some krug up and crawl through dark dungeons with spoopy skeletons.
+- [Final Fantasy VII](https://sv.wikipedia.org/wiki/Final_Fantasy_VII) - Save the world from the evil megacorporation shinra by working together with enviromental terrorists.
 
 ## Adventures
 - [Zelda](https://sv.wikipedia.org/wiki/The_Legend_of_Zelda_) - One of the best games of all times.
