@@ -56,6 +56,9 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## Metroidvania
 - [Ori and the Blind Forest](https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest) - One of the best metroidvania games ever made?
 
+## MOBA
+- [Dota 2](https://en.wikipedia.org/wiki/Dota_2) - Best MOBA, multiplayer online battle arena, there is today. A super humble and helpfull community aswell, new players are very welcome!
+
 ## Strategy
 - [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)) - Be the god over your world and conquer over other gods. Evil or good, black or white. Control your creature, shape him in your commands by reward or punishment. Use powerful spells and destroy villages or be worshiped.
 - [Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)) - Legendary turn-based strategy game series in which you attempt to build an empire to stand the test of time.
